@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.33538a07.chunk.css",
+    "main.css": "/static/css/main.f1caec26.chunk.css",
     "main.js": "/static/js/main.7ddae60c.chunk.js",
     "main.js.map": "/static/js/main.7ddae60c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d17857d2.js",
@@ -10,7 +10,7 @@
     "static/js/3.5c080ecd.chunk.js": "/static/js/3.5c080ecd.chunk.js",
     "static/js/3.5c080ecd.chunk.js.map": "/static/js/3.5c080ecd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.33538a07.chunk.css.map": "/static/css/main.33538a07.chunk.css.map",
+    "static/css/main.f1caec26.chunk.css.map": "/static/css/main.f1caec26.chunk.css.map",
     "static/js/2.d2dc9629.chunk.js.LICENSE.txt": "/static/js/2.d2dc9629.chunk.js.LICENSE.txt",
     "static/media/amazonmusic_logo.e1a120ef.svg": "/static/media/amazonmusic_logo.e1a120ef.svg",
     "static/media/applemusic_logo.e5ab7a6a.svg": "/static/media/applemusic_logo.e5ab7a6a.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.d17857d2.js",
     "static/js/2.d2dc9629.chunk.js",
-    "static/css/main.33538a07.chunk.css",
+    "static/css/main.f1caec26.chunk.css",
     "static/js/main.7ddae60c.chunk.js"
   ]
 }
